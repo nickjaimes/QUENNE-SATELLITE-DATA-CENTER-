@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/689496ab-acd7-4db1-97b8-eed19552a6c3" />
+
+
 # QUENNE-SATELLITE-DATA-CENTER-
 
 QUANTUM EDGE NEUROMORPHIC ENGINE (QUENNE)
